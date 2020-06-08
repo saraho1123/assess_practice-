@@ -13,4 +13,5 @@
   * upgradeHandleBar: (new string)
   * cocklebur: (tirePressure - 30)
   * gears: (no change)
+  * addHandBreak: (hasHandBreak = true)
   * paintColors: ( .push new strings to array)
