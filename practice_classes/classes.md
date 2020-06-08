@@ -13,4 +13,4 @@
  * changeColor (new string)
  * upgradeShoulderStrap ( .push string to array)
  * sewPockets (numOfPockets + 1)
- * waistBuckle (hasWaistBuckle = true)
+ * addWaistBuckle (hasWaistBuckle = true)

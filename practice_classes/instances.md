@@ -1,4 +1,4 @@
-### oldDanaDesigns
+### oldDanaDesigns - instance of class BackPack
 
 ***Attributes***
 
