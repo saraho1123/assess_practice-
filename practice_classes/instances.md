@@ -3,9 +3,9 @@
 ***Attributes***
 
  * color: ("teal")
- * shoulderStrap: ["curved", "wide"]
+ * shoulderStrapStyle: ["curved", "wide"]
  * numOfPockets: 5
- * hasWaistBuckle: true
+ * hasWaistBuckle: false
 
 
 ***Methods***
@@ -13,4 +13,4 @@
  * changeColor: color = "brown"
  * upgradeShoulderStrap: ["curved", "wide", "padded"]
  * sewPockets: (numOfPockets +1) = 6
- * waistBuckle: hasWaistBuckle = true
+ * addWaistBuckle: hasWaistBuckle = true

@@ -3,7 +3,7 @@
 ***Attributes***
 
  * color (string)
- * shoulderStrap (array)
+ * shoulderStrapStyle (array)
  * numOfPockets (integer)
  * hasWaistBuckle (boolean)
 
