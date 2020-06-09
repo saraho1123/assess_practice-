@@ -11,6 +11,6 @@
 ***Methods***
 
  * changeColor: color = "brown"
- * upgradeShoulderStrap: ["curved", "wide", "padded"]
- * sewPockets: (numOfPockets +1) = 6
+ * upgradeShoulderStrap: shoulderStrapStyle = ["curved", "wide", "padded"]
+ * sewPocket: (numOfPockets +1) = 6
  * addWaistBuckle: hasWaistBuckle = true
